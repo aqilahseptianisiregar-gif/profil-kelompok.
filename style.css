@@ -1,11 +1,10 @@
 :root {
-  --tinta: #14213d;
-  --kertas: #f4f6f8;
-  --putih: #ffffff;
-  --aksen: #0f766e;
-  --sorot: #f2c94c;
-  --redam: #4a5568;
-  --garis: #d5dbe3;
+--tinta: #6b4a58;
+--kertas: #f3e6ea;
+--aksen: #a8697f;
+--sorot: #ffd6e3;
+--redam: #7a6169;
+--garis: #e0c9d1;
   --judul: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --isi: "Source Serif 4", Georgia, "Times New Roman", serif;
 }
