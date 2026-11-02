@@ -1,7 +1,7 @@
 # Catatan Pemakaian AI
 
 **Tugas:** Tugas Pemantapan 1 - Halaman Profil Statis (HTML5 dan CSS)
-**Kelompok:** [Nama Kelompok]
+**Kelompok:** [Ali,Aqilah,Tasya]
 
 ## Alat yang dipakai
 - Claude (Anthropic), lewat aplikasi chat
@@ -20,5 +20,4 @@
 - Menjalankan halaman di peramban dan memeriksa tampilan di layar kecil
 - Memeriksa struktur HTML dengan validator ([isi hasilnya])
 
-## Pernyataan
-Seluruh anggota memahami isi kode yang dikumpulkan dan bertanggung jawab atas hasilnya.
+
