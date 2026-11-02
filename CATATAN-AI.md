@@ -16,8 +16,4 @@
 - Memeriksa, memahami, dan menyesuaikan kode agar sesuai materi Sesi 4-5
 - Mengelola repositori Git dan riwayat commit
 
-## Verifikasi
-- Menjalankan halaman di peramban dan memeriksa tampilan di layar kecil
-- Memeriksa struktur HTML dengan validator ([isi hasilnya])
-
 
